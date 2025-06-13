@@ -11,7 +11,7 @@
       <p style="font-size: 18px; font-family: Georgia;">
         Aquí aprenderás sobre el reciclaje y cómo aplicarlo en tu vida diaria.
       </p>
-      <img src="https://cdn.pixabay.com/photo/2017/03/01/18/45/neighborhood-2114377_960_720.png" width="300">
+      <img src="https://media.istockphoto.com/id/962933762/es/vector/ecolog%C3%ADa-y-residuos-pl%C3%A1stico-amistoso-de-eco-global.jpg?s=612x612&w=0&k=20&c=rC_fI8Zg4F_i_s4KBi6fw0bEwTGurADzcYNqhJITJt0=" alt="Separar residuos" width="300">
       <h2 style="font-size: 28px; font-family: Courier New;">¿Por qué cuidar el medio ambiente?</h2>
       <p style="font-size: 18px;">
         Porque el planeta nos da todo: aire, agua y vida. Es nuestra responsabilidad protegerlo.
