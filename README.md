@@ -76,8 +76,8 @@
     <button onclick="window.open('https://www.gob.mx/semarnat/articulos/que-son-las-7-r-del-reciclaje', '_blank')" style="padding: 10px 20px; background-color: #43a047; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
       Información SEMARNAT
     </button>
-    <button onclick="window.open('https://www.ecologiaverde.com/las-7-r-del-reciclaje/', '_blank')" style="padding: 10px 20px; background-color: #00796b; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-left: 10px;">
-      Ecología Verde
+    <button onclick="window.open('https://414ng.github.io/Lan/', '_blank')" style="padding: 10px 20px; background-color: #00796b; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-left: 10px;">
+      Regresar
     </button>
   </div>
 </body>
