@@ -70,7 +70,7 @@
       </tr>
     </table>
     <br>
-    <img src="https://cdn-icons-png.flaticon.com/512/8090/8090504.png" width="280" height="180" alt="Reciclaje comunidad">
+    <img src="CARTEL 1.png" width="280" height="180" alt="Reciclaje comunidad">
     <h2 style="color: #2e7d32;">Enlaces informativos</h2>
     <p>Puedes consultar más información aquí:</p>
     <button onclick="window.open('https://www.gob.mx/semarnat/articulos/que-son-las-7-r-del-reciclaje', '_blank')" style="padding: 10px 20px; background-color: #43a047; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
